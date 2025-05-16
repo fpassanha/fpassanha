@@ -2,7 +2,7 @@
 ----------------------------------------------------------
 
 <h3 align="center">
-  FullStack Developer • Tech Instructor • Youtuber
+  FullStack Developer • Tech Lead
 </h3>
 
 <div align='center'>
