@@ -1,6 +1,8 @@
 # Bem-vindo ao meu Github
 ----------------------------------------------------------
+![](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)
 
+----------------------------------------------------------
 <h3 align="center">
   FullStack Developer • Tech Lead
 </h3>
